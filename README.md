@@ -1,6 +1,6 @@
 # Solar Eclipse Animation Project
 ![Solar Eclipse](eclp.png)
-[![Video](https://img.shields.io/badge/Animation-darkblue)](https://www.instagram.com/reel/C50xaYdsj3y/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+[![Video](https://img.shields.io/badge/Play-Animation-darkblue)](https://www.instagram.com/reel/C50xaYdsj3y/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 ## Project Overview
 
 This project focuses on creating a visually stunning and realistic animation of a solar eclipse using Blender. The project takes advantage of Blender's Eevee render engine to achieve a cinematic look, making the celestial event both dramatic and scientifically accurate. The end goal is to produce a polished animation that captures the awe-inspiring nature of a solar eclipse.
